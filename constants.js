@@ -344,25 +344,25 @@ const QUESTIONS_RESULT = [
     description: '進攻型且穩定型，身為戰場上的領袖，他們能在穩定中領導隊伍發起攻擊，結合計畫與持久性。'
   },
   {
-    id: 'ADSI',
+    id: 'DPSI',
     img: './src/9.svg',
     name: '操獸使',
     description: '計畫型且敏感型，與隊伍間的協作極佳，擅長應對快速變動的局面，並且能預測對手的每一個動作。'
   },
   {
-    id: 'ADST',
+    id: 'DPST',
     img: './src/10.svg',
     name: '盾衛士',
     description: '防守型且穩定型，穩健的防守反擊，使得他們在長時間比賽中始終保持優勢，讓對手無法輕易突破防線。'
   },
   {
-    id: 'ADCI',
+    id: 'DPCI',
     img: './src/11.svg',
     name: '幻術士',
     description: '防守型且敏感型，擅長對敵人行動的預測與反擊，並能夠在比賽中運用細膩的計算來迷惑對手。'
   },
   {
-    id: 'ADCT',
+    id: 'DPCT',
     img: './src/12.svg',
     name: '牧師',
     description: '防守型且穩定型，總是能以冷靜且理性的態度應對比賽，穩固的防守並且能持久支持隊伍。'
