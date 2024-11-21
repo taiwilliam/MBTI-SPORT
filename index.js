@@ -38,10 +38,10 @@ function renderResultPage(MBTI) {
 
   console.log(resultData)
 
-  name_.innerText = resultData.name
+  name_.innerText = `${resultData.name} (${resultData.id})`
   img_.src = resultData.img
   description_.innerText = resultData.description
-
+  window.scrollTo(0, 0);
   resultPage.classList.remove("d-none");
   testPage.classList.add("d-none");
 }
